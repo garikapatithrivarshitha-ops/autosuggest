@@ -1,3 +1,14 @@
-h1{
+h1 {
     color: brown;
+}
+
+#Home-title {
+    text-align: center;
+    border: 3px solid black;
+}
+#p2{
+    color: blue;
+}
+#Home-title:hover{
+    background-color: bisque;
 }
