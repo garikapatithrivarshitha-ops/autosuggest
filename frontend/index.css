@@ -12,3 +12,17 @@ h1 {
 #Home-title:hover{
     background-color: bisque;
 }
+#nav{
+    text-align:center;
+    background-color: blueviolet;
+    height: 25px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+}
+#nav a{
+
+    margin: 0px 2px;
+    text-decoration: none;
+    color: azure;
+
+}
