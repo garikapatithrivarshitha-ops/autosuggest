@@ -3,8 +3,6 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     height:100vh;
 }
-
-/* Top section */
 .top{
     display:flex;
     justify-content:space-between;
@@ -27,8 +25,6 @@ body{
 .online{
     color:green;
 }
-
-/* Main Content */
 .main{
     margin-top:120px;
     display:flex;
@@ -46,8 +42,6 @@ body{
     font-size:20px;
     color:#555;
 }
-
-/* Search Bar */
 .search{
     margin-top:30px;
     width:700px;
@@ -68,4 +62,17 @@ body{
     width:100%;
     font-size:20px;
     margin-left:15px;
+}
+.name{
+    color: blue;
+}
+.n{
+    color: beige;
+}
+#suggestion-box{
+    border:1px solid black;
+    display:flex;
+    width:700px;
+    align-items: center;
+    margin-left:29%;
 }
